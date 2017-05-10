@@ -1,0 +1,10 @@
+<!-- Aquest vindria a ser el .properties on emmagatzemem les constants amb els seus valor-->
+<resources>
+    <string name="app_name">AppAlvaro</string>
+    <string name="nom">Escriu el teu nom:</string>
+    <string name="acceptar">Acceptar</string>
+
+    <string name="base_dades">Escriu un num i un nom per a la BBDD:</string>
+    <string name="enviar">Enviar</string>
+    <string name="image">Veure IMGs BBDD</string>
+</resources>
