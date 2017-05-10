@@ -44,8 +44,8 @@ public class uploadFireImg extends MainActivity {
         imageView = (ImageView) findViewById(R.id.imageView);
 
         //attaching listener
-        buttonChoose.setOnClickListener(this);
-        buttonUpload.setOnClickListener(this);
+//        buttonChoose.setOnClickListener(this);
+//        buttonUpload.setOnClickListener(this);
     }
 
     //method to show file chooser
@@ -72,7 +72,7 @@ public class uploadFireImg extends MainActivity {
         }
     }
 
-    @Override
+//    @Override
     public void onClick(View view) {
         //if the clicked button is choose
         if (view == buttonChoose) {
